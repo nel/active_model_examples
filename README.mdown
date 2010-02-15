@@ -1,0 +1,17 @@
+Active Model Example
+======
+
+Basic usage example of ActiveModel
+
+Core class is a Blog Post model with csv persistence.
+
+We will use Active Model to add validation, serialization, hooks ...
+
+In the end we'll have a CSV to JSON serialiser, JSON to CSV Api, a CSV validator, Observers ...
+
+You don't need no ODBC anymore :)
+
+Disclaimer
+======
+
+Those are really quick examples used during a 10 min talk prior to Rails3 beta, this is definitly not production ready and not intended to be ;)
